@@ -1,0 +1,6 @@
+c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\ConsoleTest\bin\Debug\ConsoleTest.exe
+c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\ConsoleTest\bin\Debug\ConsoleTest.pdb
+c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\ConsoleTest\obj\Debug\ConsoleTest.exe
+c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\ConsoleTest\obj\Debug\ConsoleTest.pdb
+c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
