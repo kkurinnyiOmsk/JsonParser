@@ -13,7 +13,11 @@
         {
 
         }
-
+        /// <summary>
+        /// return formatted string
+        /// </summary>
+        /// <param name="inputString">принимаемая для форматирования строка</param>
+        /// <returns></returns>
         public string HandleString(string inputString)
         {
             int shiftCount = 0;
@@ -64,17 +68,17 @@
             SpaceShift(ref str, currentIndex, shift);
         }
 
-        public void LineBreakeBefore(ref string str, int currentIndex)
+        private void LineBreakeBefore(ref string str, int currentIndex)
         {
             str = str.Insert(currentIndex, TransferNewLine);
         }
 
-        public void LineBreakeAfter(ref string str, int currentIndex)
+        private void LineBreakeAfter(ref string str, int currentIndex)
         {
             str = str.Insert(currentIndex +1 , TransferNewLine);
         }
 
-        public void SpaceShift(ref string str, int currentIndex, int shift)
+        private void SpaceShift(ref string str, int currentIndex, int shift)
         {
             for (int i = 0; i < shift; i++)
             {

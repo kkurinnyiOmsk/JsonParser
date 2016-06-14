@@ -9,8 +9,8 @@ namespace ConsoleTest
 
         static void Main(string[] args)
         {
-            JsonParser jsonParser = new JsonParser(); 
-            Console.ReadLine();
+           JsonParser jsonParser = new JsonParser();
+            var handleString = jsonParser.HandleString("sdfsdf");
         }
     }
 }
