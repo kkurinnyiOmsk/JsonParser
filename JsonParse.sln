@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParseTest", "JsonParseTest\JsonParseTest.csproj", "{059C8EEE-D9F6-4F78-AABE-FA1C03965C86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{54E4B90B-2A3B-4414-BBA4-18FD6DBFA408}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{059C8EEE-D9F6-4F78-AABE-FA1C03965C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{059C8EEE-D9F6-4F78-AABE-FA1C03965C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{059C8EEE-D9F6-4F78-AABE-FA1C03965C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E4B90B-2A3B-4414-BBA4-18FD6DBFA408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E4B90B-2A3B-4414-BBA4-18FD6DBFA408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E4B90B-2A3B-4414-BBA4-18FD6DBFA408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E4B90B-2A3B-4414-BBA4-18FD6DBFA408}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

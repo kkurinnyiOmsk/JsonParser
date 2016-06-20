@@ -39,6 +39,7 @@ namespace JsonParseTest
             string inputString = "{\"UserID\":53568,\"FirstName\":\"Kat\",\"LastName\":\"Burke\",\"City\":{\"Count\":2342234,\"Name\":\"Omsk\",\"Country\":{\"Name\":\"Russia\"}}}";
 
             JsonParser jsonParser = new JsonParser();
+            jsonParser.SetLineBreakeConst(2).SetTabConst(4);
             string outputString = jsonParser.HandleString(inputString);
 
             string expectedResult = "{\n  \"UserID\":53568,\n  \"FirstName\":\"Kat\",\n  \"LastName\":\"Burke\"\n}";
