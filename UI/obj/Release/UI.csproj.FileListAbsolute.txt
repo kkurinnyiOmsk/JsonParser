@@ -1,0 +1,16 @@
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\bin\Release\UI.exe.config
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\bin\Release\UI.exe
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\bin\Release\UI.pdb
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\bin\Release\JsonParse.dll
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\bin\Release\JsonParse.pdb
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\UI.csprojResolveAssemblyReference.cache
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\MainWindow.g.cs
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\App.g.cs
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\UI_MarkupCompile.cache
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\UI_MarkupCompile.lref
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\MainWindow.baml
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\UI.g.resources
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\UI.Properties.Resources.resources
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\UI.csproj.GenerateResource.Cache
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\UI.exe
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\UI\obj\Release\UI.pdb

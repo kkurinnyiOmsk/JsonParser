@@ -1,0 +1,8 @@
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Release\JsonParseTest.dll
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Release\JsonParseTest.pdb
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Release\JsonParse.dll
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Release\JsonParse.pdb
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\obj\Release\JsonParseTest.csprojResolveAssemblyReference.cache
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\obj\Release\JsonParseTest.dll
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\obj\Release\JsonParseTest.pdb

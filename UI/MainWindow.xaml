@@ -1,0 +1,24 @@
+﻿<Window x:Class="UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="391*"/>
+            <ColumnDefinition Width="126*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="151*"/>
+            <RowDefinition Height="168*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="InputTextBox" Grid.Row="0" Grid.Column="0"  ></TextBox>
+        <TextBox x:Name="ResultTextBox" Grid.Row="1" Grid.Column="0" ></TextBox>
+        <Button x:Name="FormatButton" Content="Format Text" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="18,19,0,0" VerticalAlignment="Top" Width="74" Click="FormatButton_Click"/>
+
+
+    </Grid>
+</Window>

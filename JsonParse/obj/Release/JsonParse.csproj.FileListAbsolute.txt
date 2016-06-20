@@ -1,0 +1,4 @@
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParse\bin\Release\JsonParse.dll
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParse\bin\Release\JsonParse.pdb
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParse\obj\Release\JsonParse.dll
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParse\obj\Release\JsonParse.pdb
