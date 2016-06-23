@@ -2,4 +2,4 @@ c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\JsonParse\bin\
 c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\JsonParse\bin\Debug\JsonParse.pdb
 c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\JsonParse\obj\Debug\JsonParse.dll
 c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\JsonParse\obj\Debug\JsonParse.pdb
-c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\JsonParse\obj\Debug\JsonParse.csprojResolveAssemblyReference.cache
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParse\obj\Debug\JsonParse.csprojResolveAssemblyReference.cache

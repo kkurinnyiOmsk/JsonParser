@@ -6,3 +6,9 @@ c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\JsonParseTest\
 c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\JsonParseTest\obj\Debug\JsonParseTest.csprojResolveAssemblyReference.cache
 c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\JsonParseTest\obj\Debug\JsonParseTest.dll
 c:\users\kkurinny\documents\visual studio 2015\Projects\JsonParse\JsonParseTest\obj\Debug\JsonParseTest.pdb
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Debug\FluentAssertions.Core.dll
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Debug\FluentAssertions.dll
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Debug\FluentAssertions.pdb
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Debug\FluentAssertions.xml
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\kkurinny\Documents\Visual Studio 2015\Projects\JsonParse\JsonParseTest\bin\Debug\FluentAssertions.Core.xml
